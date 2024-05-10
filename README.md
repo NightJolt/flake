@@ -1,7 +1,7 @@
 # flake
 collection of flake modules
 
-<b>[core](https://github.com/NightJolt/flake_dependency_manager)</b><span>:&emsp;used for resolving git submodule diamond dependency problems. instead makes dependency structure flat</span>
+<b>[dependency_manager](https://github.com/NightJolt/flake_dependency_manager)</b><span>:&emsp;used for resolving git submodule diamond dependency problems. instead makes dependency structure flat</span>
 
 <b>[core](https://github.com/NightJolt/flake_core)</b><span>:&emsp;root dependency for all flake modules</span>
 
