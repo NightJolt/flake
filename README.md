@@ -12,3 +12,7 @@ collection of flake modules
 <b>[rpc](https://github.com/NightJolt/flake_rpc)</b><span>:&emsp;remote procedural call library with interface definition language for generating interfaces. current implementation uses sfml for networking(will be replaced with flake_net)</span>
 
 <b>gui</b><span>:&emsp;library for graphical interface. uses sfml as a backend</span>
+
+<br />
+
+<span>older version of this library - </span><b>[funengine2d](https://github.com/NightJolt/FunEngine2D)</b>
