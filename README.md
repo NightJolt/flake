@@ -7,6 +7,8 @@ collection of flake modules
 
 <b>[ecs](https://github.com/NightJolt/flake_ecs)</b><span>:&emsp;entity component system implementation using sparse set</span>
 
-<b>net</b><span>:&emsp;library for simple client/server communications. uses zmq library. (not yet published)</span>
+<b>net</b><span>:&emsp;library for simple client/server communications. uses zmq as a backend</span>
 
 <b>[rpc](https://github.com/NightJolt/flake_rpc)</b><span>:&emsp;remote procedural call library with interface definition language for generating interfaces. current implementation uses sfml for networking(will be replaced with flake_net)</span>
+
+<b>gui</b><span>:&emsp;library for graphical interface. uses sfml as a backend</span>
